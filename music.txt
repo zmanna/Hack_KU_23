@@ -1,0 +1,40 @@
+banjo
+double bass
+cello
+guitar
+guitar
+bass
+harp
+ukulele
+viola
+violin
+rap
+pop
+jazz
+clavichord
+cornet
+cymbal
+dhime
+didgeridoo
+dizi
+double bass
+drum kit
+esraj
+ektara
+erhu
+euphonium
+fiddle
+flute
+blues
+rock
+punk
+house
+lute
+lyre
+oboe
+pipa
+pungi
+oud
+organ
+octobass
+tenor 
