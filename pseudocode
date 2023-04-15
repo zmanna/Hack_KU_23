@@ -1,0 +1,25 @@
+'''
+- Create multiple word lists based on different categories
+- Prompt the user to select a category of words to play the game with
+- Set the initial time for the game
+- Set the initial score to 0
+- Set the initial word length to 3
+- Set the number of correct guesses required to increment word length to 5
+- Load the dictionary of words for the selected category
+- Initialize the correct guess counter
+- Loop while there is still time left
+  - Select a random word of the current word length from the dictionary
+  - Scramble the word
+  - Display the scrambled word to the user
+  - Read input from the user
+  - If the input is the unscrambled word
+    - Increment the score by 1
+    - Add time to the remaining time
+    - Increment the correct guess counter
+    - If the correct guess counter equals the required number
+      - Increment the word length
+      - Reset the correct guess counter
+  - Else, subtract time from the remaining time
+  - Display the remaining time and current score to the user after each correct guess
+- Display the final score to the user
+'''
